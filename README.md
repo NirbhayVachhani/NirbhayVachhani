@@ -8,8 +8,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
-
+## 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Petify**
 - 🌱 &nbsp; I’m currently learning Flutter; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/NirbhayVachhani)
