@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Nirbhay Vachhani</h1>
+<h3 align="center">A software engineer</h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, Node.js, PHP)
@@ -23,12 +23,6 @@
 ## 📚 Learning
 - Platzi courses about Backend development Roadmap
 - React.js with my Gf 👩‍❤️‍👨
-
-## 🎵 Spotify status
-
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
