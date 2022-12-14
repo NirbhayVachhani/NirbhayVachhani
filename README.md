@@ -32,6 +32,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 </a>
-## 💰 Support
+
+## 💰Support
+
 <p><a href="https://www.buymeacoffee.com/nirbhay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nirbhay" /></a></p><br><br>
 <br>
