@@ -6,7 +6,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="lassroom.google.com/u/0/h" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.jpg" width="360px"/>
   
 ## 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Petify**
