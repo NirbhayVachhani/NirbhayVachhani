@@ -9,12 +9,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
   
 ## 🧐 More About Me:
-- 🔭 &nbsp; I’m have worked on **Petify**
-- 🌱 &nbsp; I’m currently learning Flutter off the course; 
+- 🔭 &nbsp; You can visit my website on **https://nirbhay-portfolio-pi.vercel.app/**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/NirbhayVachhani)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nirbhay-vachhani-1a360820b/)
-- 📝 &nbsp; Checkout my [resume](https://www.canva.com/design/DAE9TQWRs8Q/l8-M3Lj-fD75ZZgWu8hGYQ/view?utm_content=DAE9TQWRs8Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in//nirbhayvachhani/)
 
 <br>
 
